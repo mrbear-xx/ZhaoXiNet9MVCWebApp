@@ -39,6 +39,7 @@ namespace ZhaoXiNet9MVCWebApp.OptionsTest
             }catch(OptionsValidationException ex)
             {
                 Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.StackTrace);
             }
         }
     }
