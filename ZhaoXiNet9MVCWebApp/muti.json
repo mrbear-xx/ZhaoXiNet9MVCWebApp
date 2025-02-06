@@ -1,0 +1,21 @@
+{
+  //测试
+  "DefaultApp": {
+    "Name": "App1",
+    "StartDate": "2025/01/14",
+    "EndDate": "2025/01/14"
+    "Behavior": {
+      "IsRead": true,
+      "IsWrite": true
+    }
+  },
+  "CustomApp": {
+    "Name": "App2",
+    "StartDate": "2025/01/14",
+    "EndDate": "2025/01/14",
+    "Behavior": {
+      "IsRead": true,
+      "IsWrite": true
+    }
+  }
+}

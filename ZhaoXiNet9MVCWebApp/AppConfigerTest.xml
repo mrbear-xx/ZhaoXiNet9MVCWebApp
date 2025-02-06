@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <AppConfigDemo>
+    <Name>MyApp</Name>
+    <StartDate>2025/01/14</StartDate>
+    <EndDate>2025/01/14</EndDate>
+    <Behavior>
+      <IsRead>true</IsRead>
+      <IsWrite>true</IsWrite>
+    </Behavior>
+  </AppConfigDemo>
+</configuration>
