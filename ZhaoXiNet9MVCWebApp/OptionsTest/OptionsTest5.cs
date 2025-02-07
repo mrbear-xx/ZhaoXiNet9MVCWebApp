@@ -30,6 +30,7 @@ namespace ZhaoXiNet9MVCWebApp.OptionsTest
             Console.WriteLine($"Name:{customApp?.Name}");
             Console.WriteLine($"StartDate:{customApp?.StartDate}");
             Console.WriteLine($"EndDate:{customApp?.EndDate}");
+            Console.WriteLine("代码定义配置信息完成");
         }
     }
 }
